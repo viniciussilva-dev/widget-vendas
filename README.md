@@ -160,9 +160,3 @@ Webhook → Extrai deal_id do envelope → Move card para "Vendido"
 
 **Vinicius Silva**
 - GitHub: [@viniciussilva-dev](https://github.com/viniciussilva-dev)
-
----
-
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
