@@ -152,7 +152,8 @@ Webhook → Extrai deal_id do envelope → Move card para "Vendido"
 
 ## 📸 Preview
 
-![Widget funcionando dentro do card Bitrix24](https://i.imgur.com/placeholder.png)
+![Widget funcionando dentro do card Bitrix24](<img width="1408" height="749" alt="Captura de tela 2026-05-15 152758" src="https://github.com/user-attachments/assets/e8b45fc8-cbaf-4b03-a5a8-72c2b37ea56a" />
+)
 
 ---
 
